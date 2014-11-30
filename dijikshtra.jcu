@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<open_files>
+		<docitem>
+			<path>DJ.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>GenerateRandomString.java</path>
+			<class>GenerateRandomString</class>
+			<session/>
+			<line>1</line>
+			<enable>true</enable>
+		</breakpoint>
+		<breakpoint>
+			<path>GenerateRandomString.java</path>
+			<class>GenerateRandomString</class>
+			<session/>
+			<line>2</line>
+			<enable>true</enable>
+		</breakpoint>
+		<breakpoint>
+			<path>GenerateRandomString.java</path>
+			<class>GenerateRandomString</class>
+			<session/>
+			<line>6</line>
+			<enable>true</enable>
+		</breakpoint>
+		<breakpoint>
+			<path>DJ.java</path>
+			<class>DJ</class>
+			<session/>
+			<line>25</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+</workspace_user>
